@@ -1,0 +1,16 @@
+# Data Manipulation & Visualization
+pandas
+numpy
+matplotlib
+seaborn
+
+# Deep Learning & NLP Core
+torch
+transformers
+datasets
+evaluate
+
+# Utilities
+tqdm
+accelerate
+rouge_score
